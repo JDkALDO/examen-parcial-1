@@ -1,1 +1,1 @@
-# examen-parcial-1
+En el examen cree un sistema para monitoreo de la temperatura y humedad utilizando el sensor DTH22 y el sensor de medir la presion HW-611 mostrando los resultados en la plataforma Thingspeaky mostrando tambien lo que es la temperatura, la humedad y la precision en la pantalla OLED, activa una alarma cada que la temperatura llega a  27 grados y la humedad a 60%, lo mas dificil fue realizar el cargado a la ESP32 debido a que el modulo no funcionaba y algunas conexiciones erroneas en la OLED, no hubo ninguna complicacion 
